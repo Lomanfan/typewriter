@@ -1,4 +1,6 @@
 
+//animated sentence using setTimeout,process.stdout.write,'\n'
+
 const sentence = "hello there from lighthouse labs";
 
 let timeOut = 0;
